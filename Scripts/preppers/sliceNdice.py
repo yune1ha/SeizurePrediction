@@ -521,9 +521,9 @@ def main():
             for _dir in (seg_dir, seq_dir):
                 if os.path.exists(_dir):    
                     shutil.rmtree(_dir)
-
-    print('All processes complete.\nTerminating program\n.')
     f.close()
+    print('All processes complete.\nTerminating program.\n')
+    
     
 main()
 # penultimate line
