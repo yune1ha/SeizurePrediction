@@ -1,6 +1,6 @@
 # SeizurePrediction
 
-Predicts seizure (detects preictal pattern) 5 min + @ prior to onset (ictal). 
+Predicts seizure (detects preictal pattern) 5 min + up to 30 min prior to onset (ictal). 
 
 Script directory contains the final executable codes, whereas the notebook directory is for reference only (various EDA, prep, training processes).
 
